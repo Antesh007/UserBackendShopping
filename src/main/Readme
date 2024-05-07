@@ -1,0 +1,11 @@
+Oauth has 4 componentsn
+
+1. user
+2. authorization server
+3. resource server
+4. application
+
+After the signup part is done framework tries to convert user into a JSON
+The conversion of User to JSON is done by a library called jackson.
+
+In jwt scope is the permissions that are given
